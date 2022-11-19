@@ -2,3 +2,13 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+@font-face {
+    font-family: teko;
+    src: url(assets/fonts/teko/Teko-Medium.ttf) format("opentype");
+}
+
+@font-face {
+    font-family: Alexandria;
+    src: url(assets/fonts/Alexandria/Alexandria-Light.ttf) format("opentype");
+}
